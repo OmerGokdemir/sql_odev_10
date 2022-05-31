@@ -1,7 +1,7 @@
 # sql_odev_10
 SQL 10. Ödevi
 
-##Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
+## Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
 1. *city* tablosu ile *country* tablosunda bulunan şehir (*city*) ve ülke (*country*) isimlerini birlikte görebileceğimiz LEFT JOIN sorgusunu yazınız.
 
